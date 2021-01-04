@@ -1,0 +1,5 @@
+Stock Name,Current Price,Previous Close,Open,Bid,Ask,Day's Range,52 Week Range,Volume,Avg. Volume,Market Cap,Beta (5Y Monthly),PE Ratio (TTM),EPS (TTM),Earnings Date,Forward and Dividend & Yield,Ex-Dividend Date,1y Target Est
+Apple Inc. (AAPL),131.97,130.96,131.32,131.93 x 1200,131.96 x 800,131.10 - 133.46,53.15 - 137.98,"54,930,064","115,550,452",2.244T,1.30,40.23,3.28,"Jan 26, 2021 - Feb 01, 2021",0.82 (0.62%),"Nov 06, 2020",127.11
+"Amazon.com, Inc. (AMZN)","3,172.69","3,185.27","3,193.90","3,169.00 x 900","3,172.40 x 1000","3,169.00 - 3,202.00","1,626.03 - 3,552.25","1,451,917","4,452,346",1.592T,1.20,92.76,34.20,"Jan 28, 2021 - Feb 01, 2021",N/A (N/A),N/A,"3,819.30"
+"PayPal Holdings, Inc. (PYPL)",238.64,239.44,240.36,237.04 x 3100,238.32 x 800,238.09 - 242.12,82.07 - 244.25,"3,021,059","9,088,180",279.612B,1.10,90.05,2.65,"Jan 27, 2021 - Feb 01, 2021",N/A (N/A),N/A,230.12
+"Zoom Video Communications, Inc. (ZM)",375.17,383.88,383.88,375.76 x 4000,376.10 x 900,375.00 - 384.88,65.52 - 588.84,"3,850,734","9,175,242",107.301B,N/A,260.72,1.44,"Mar 05, 2021 - Mar 10, 2021",N/A (N/A),N/A,487.20
